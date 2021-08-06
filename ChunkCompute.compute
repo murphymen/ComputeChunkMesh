@@ -147,3 +147,6 @@ bool CheckVoxel(float3 pos)
     //return voxelMap[x, y, z];
 }
 */
+
+
+
